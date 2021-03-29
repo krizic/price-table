@@ -1,0 +1,72 @@
+{
+  "monthlyPlans": [
+    {
+      "id": 1,
+      "name": "Starter",
+      "price": "€59.90",
+      "recommended": false,
+      "includes": [
+        { "feature": "websites", "limit": 3 },
+        { "feature": "profiles", "limit": 10 },
+        { "feature": "users", "limit": 2 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Team",
+      "price": "€129.90",
+      "recommended": true,
+      "includes": [
+        { "feature": "websites", "limit": 10 },
+        { "feature": "profiles", "limit": 25 },
+        { "feature": "users", "limit": 5 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "price": "€259.90",
+      "recommended": false,
+      "includes": [
+        { "feature": "websites", "limit": 50 },
+        { "feature": "profiles", "limit": 80 },
+        { "feature": "users", "limit": 25 }
+      ]
+    }
+  ],
+  "yearlyPlans": [
+    {
+      "id": 1,
+      "name": "Starter",
+      "price": "€649.90",
+      "recommended": false,
+      "includes": [
+        { "feature": "websites", "limit": 3 },
+        { "feature": "profiles", "limit": 10 },
+        { "feature": "users", "limit": 2 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Team",
+      "price": "€1399.90",
+      "recommended": false,
+      "includes": [
+        { "feature": "websites", "limit": 10 },
+        { "feature": "profiles", "limit": 25 },
+        { "feature": "users", "limit": 5 }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Premium",
+      "price": "€2499.90",
+      "recommended": true,
+      "includes": [
+        { "feature": "websites", "limit": 50 },
+        { "feature": "profiles", "limit": 80 },
+        { "feature": "users", "limit": 25 }
+      ]
+    }
+  ]
+}
